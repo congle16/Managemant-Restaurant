@@ -1,0 +1,13 @@
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Login.resources
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.QuanLyBan.resources
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ThongTinCaNhan.resources
+E:\Lt .NET\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.resources
